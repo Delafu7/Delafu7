@@ -5,11 +5,9 @@
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
 
-Some documentacion about:
+Some interesting info:
 
-- Git and github: [https://delafu7.github.io/hello-git/](https://delafu7.github.io/hello-git/)
-- My Portfolio : [https://delafu7.github.io/portfolio/]
-<!---
-Delafu7/Delafu7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Git/Github : [https://delafu7.github.io/hello-git/](https://delafu7.github.io/hello-git/)
+- QA Learning Hub: [https://delafu7.github.io/QA-Learning-Hub/](https://delafu7.github.io/QA-Learning-Hub/)
+- My Portfolio : [https://delafu7.github.io/portfolio/](https://delafu7.github.io/portfolio/)
+- 
